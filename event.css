@@ -1,14 +1,18 @@
+ @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+        
+  @import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;1,500&display=swap');
+
 body{
     background-color: #f2f2f2;
 }
+
 img{
     width: 320px;
     height: 240px;
   }
 
 .head{
-    border: 3px solid #2E2E2E ;
-   
+    border: 3px solid #2E2E2E ;   
     width: 400px;
     text-align: center;
     font-family: 'Dancing Script', cursive;
@@ -21,6 +25,7 @@ img{
     margin: 30.15px 0px;
     font-size: 45px;
 }
+
 .head p {
     margin: 16px 0px;
 }
@@ -51,13 +56,16 @@ img{
     margin: 0px 5px;
     padding: 5px;
 }
+
 #topnav ul li a:hover{
     border-bottom: 3px solid #F2F2F2;
 }
+
 #content{
     font-family: 'Lora', serif;
 
 }
+
 #content h1,h2{
     color: #212A3F;
     font-family: 'Dancing Script', cursive;
@@ -91,11 +99,13 @@ img{
 .pic3{
     padding-bottom: 5px;
 }
+
 footer{
     border-top: 10px solid #434F5B;
     width: 415px;
     margin: 0 auto;
 }
+
 #footernav{
     padding-top:5px;
     padding-left: 0px;
